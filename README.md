@@ -39,7 +39,7 @@
 
 ## 내가 맡은 기능 및 설명
 
-**[쪽지(채팅)]**
+**[ 쪽지(채팅) ]**
 * 통신 방식은 Ajax를 이용한 비동기 방식을 사용하여 구현
 * 어떤 페이지에서든 사용할 수 있도록 상단바에 쪽지기능을 배치
 
@@ -47,17 +47,46 @@
 |:--:|
 | 상단바 쪽지 |
 
+<br>
+
+* 채팅방을 생성과 동시에 방이 생성되도록 설정
+* 쪽지가 오면 상단바에서 읽지 않은 쪽지(채팅)을 확인 할 수 있다.
 
 | ![ezgif com-optimize](https://github.com/user-attachments/assets/7f82ef11-7c67-4092-baa7-346edc7214bd)| ![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4b801c0a-28c1-4b65-8a0d-6d96095bdd84)|
 |:--:|:--:|
 | 채팅방 생성 및 보내기 | 나에게 온 채팅 확인 |
 
+<br>
+
+* 특정 직원의 간략한 정보를 확인할 수 있다.
+
+|![image](https://github.com/user-attachments/assets/fea65683-34b0-4aec-a6e7-28a092350c7d)|
+|:--:|
+| 직원 정보 |
+
+<br><br>
 
 
+**[ 거래처 관리 ]**
+* 거래처를 생성, 수정, 삭제가 가능
+* 거래처 상세 보기 가능
+
+|![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/3ff9673f-4522-45e0-995e-c1e92853589a)|
+|:--:|
+| 거래처 추가 |
+
+<br>
+
+|![ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/31207bcd-c541-453a-88e2-94802228970b)|
+|:--:|
+| 거래처 수정 |
 
 
+<br>
 
-
+|![ezgif com-video-to-gif-converter (3)](https://github.com/user-attachments/assets/4852cd03-80cd-4d33-8947-f814a8ccb91b)|
+|:--:|
+| 거래처 삭제 |
 
 
 
