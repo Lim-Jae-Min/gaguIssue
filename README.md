@@ -40,11 +40,17 @@
 ## 내가 맡은 기능 및 설명
 
 **[쪽지(채팅)]**
-* 어떤 페이지에서든 사용할 수 있도록 상단바에 쪽지기능을 배치하였다.
+* 통신 방식은 Ajax를 이용한 비동기 방식을 사용하여 구현
+* 어떤 페이지에서든 사용할 수 있도록 상단바에 쪽지기능을 배치
 
 |![2024-08-01012945-ezgif com-optimize](https://github.com/user-attachments/assets/81bb8c52-72c5-4940-bdda-4a3662430777)|
 |:--:|
 | 상단바 쪽지 |
+
+
+| ![ezgif com-optimize](https://github.com/user-attachments/assets/7f82ef11-7c67-4092-baa7-346edc7214bd)| ![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4b801c0a-28c1-4b65-8a0d-6d96095bdd84)|
+|:--:|:--:|
+| 채팅방 생성 및 보내기 | 나에게 온 채팅 확인 |
 
 
 
